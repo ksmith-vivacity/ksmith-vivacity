@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin
 =============================================================================================================================
 
-Fullstack Developer
+Full-stack Developer
 --------------------
 
 * 🌍  I'm based in New York
@@ -23,10 +23,6 @@ Fullstack Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ksmith-vivacity"><img src="https://github-readme-stats.vercel.app/api?username=ksmith-vivacity&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&show_icons=true" alt="ksmith-vivacity's GitHub stats" /></a>
-
 <a href="http://www.github.com/ksmith-vivacity"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ksmith-vivacity&stroke=ffffff&background=27272a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/ksmith-vivacity"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ksmith-vivacity&bg_color=27272a&color=ffffff&line=14b8a6&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ksmith-vivacity" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksmith-vivacity&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
