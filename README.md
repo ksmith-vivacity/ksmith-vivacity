@@ -19,7 +19,9 @@ Full-stack Developer
 <p align="center"> <a href="https://www.github.com/ksmith-vivacity" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 <p align="center" style="width:'100%';display:'block'">
+  
 ### My GitHub Stats
+  
   <a href="http://www.github.com/ksmith-vivacity"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ksmith-vivacity&stroke=ffffff&background=27272a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
